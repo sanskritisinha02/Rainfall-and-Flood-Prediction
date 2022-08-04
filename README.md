@@ -7,4 +7,5 @@ LogIn Page:
 ![image](https://user-images.githubusercontent.com/90863360/182786430-a10d147d-4a99-4a59-966b-36bf8dd6780f.png)
 
 UML Diagrams and Code Implementation is also attached.
+
 This is a group project done by 2 members. 
