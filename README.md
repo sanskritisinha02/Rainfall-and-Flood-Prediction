@@ -4,7 +4,9 @@ Flood and heavy Rainfall is the most common and dangerous natural disaster in In
 
 LogIn Page:
 
-![image](https://user-images.githubusercontent.com/90863360/182786430-a10d147d-4a99-4a59-966b-36bf8dd6780f.png)
+<p align="center">
+  <img width="400" height = "400" alt="Img1" src="https://user-images.githubusercontent.com/90863360/182786430-a10d147d-4a99-4a59-966b-36bf8dd6780f.png">
+</p>
 
 UML Diagrams and Code Implementation is also attached.
 
